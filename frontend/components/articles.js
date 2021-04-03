@@ -33,4 +33,4 @@ const Articles = ({ articles }) => {
   );
 };
 
-export const Articles;
+export default Articles;

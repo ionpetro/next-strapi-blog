@@ -8,4 +8,8 @@ const Seo = ({ seo }) => {
     ...defaultSeo,
     ...seo,
   };
+
+  return <></>;
 };
+
+export default Seo;
